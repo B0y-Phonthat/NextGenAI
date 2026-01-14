@@ -14,4 +14,4 @@ app.add_middleware(
 
 @app.get("/api/data")
 def read_data():
-    return {"message": "CORS works!"}
+    return [{"id": 1, "name": "Project A"}, {"id": 2, "name": "Project B"}]

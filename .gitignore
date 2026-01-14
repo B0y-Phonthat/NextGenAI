@@ -43,3 +43,6 @@ next-env.d.ts
 # Database
 database/*
 venv/*
+
+backend/app/connect/connect.py
+backend/app/connect/__pycache__
