@@ -46,3 +46,5 @@ venv/*
 
 backend/app/connect/connect.py
 backend/app/connect/__pycache__
+nextgenai.code-workspace
+backend/*
